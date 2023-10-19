@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm shendgeshraddha</h1>
 <h3 align="center">A passionate Competitive Programmer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[![image](https://github.com/shendgeshraddha/shendgeshraddha/assets/129361612/62b3cfed-2b79-4e8d-a6b2-9d7ff4eeddac)](https://github.com/shendgeshraddha/shendgeshraddha/blob/main/Gif.gif)">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shendgeshraddhadha&label=Profile%20views&color=0e75b6&style=flat" alt="shendgeshraddhadha" /> </p>
