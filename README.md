@@ -1,4 +1,4 @@
-![logo](https://github.com/shendgeshraddha/shendgeshraddha/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner%20(3).png)
+
 <h1 align="center">Hi 👋, I'm shendgeshraddha</h1>
 <h3 align="center">A passionate Competitive Programmer from India</h3>
 
