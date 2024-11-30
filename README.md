@@ -7,9 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shendgeshraddhadha&label=Profile%20views&color=0e75b6&style=flat" alt="shendgeshraddhadha" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🎓 I'm a pre-final year engineering student specializing in **C++**, **Data Structure and Algorithm**
 
 - 💬 Ask me about **C , C++**
+
+- 🌱 Currently exploring mernstack development and enhancing my skills in web development.
 
 - 📫 How to reach me **shendgeshraddha069@gmail.com**
 
