@@ -9,11 +9,18 @@
 
 - 🎓 I'm a pre-final year engineering student specializing in **C++**, **Data Structure and Algorithm**
 
-- 💬 Ask me about **C , C++**
-
 - 🌱 Currently exploring mernstack development and enhancing my skills in web development.
 
+- 💬 Ask me about **C , C++**
+
 - 📫 How to reach me **shendgeshraddha069@gmail.com**
+
+<h3 align="left">Achievment✨</h3>
+ • 5⭐ on HackerRank in DSA
+ • Secured codechef’s 2⭐ rating.
+ • AIR 7 in National DD Robocon 2023.
+ • Solved 500+ problems on Leetcode.
+ • Contributed in Hactoberfest as well as GSSOC'2024
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
