@@ -15,12 +15,15 @@
 
 - 📫 How to reach me **shendgeshraddha069@gmail.com**
 
-<h3 align="left">Achievment✨</h3>
- • 5⭐ on HackerRank in DSA
- • Secured codechef’s 2⭐ rating.
- • AIR 7 in National DD Robocon 2023.
- • Solved 500+ problems on Leetcode.
- • Contributed in Hactoberfest as well as GSSOC'2024
+<h3 align="left">Achievements ✨</h3>
+<ul>
+  <li>🌟 Achieved <strong>5⭐</strong> on HackerRank in Data Structures and Algorithms (DSA).</li>
+  <li>🌟 Secured <strong>2⭐</strong> rating on CodeChef.</li>
+  <li>🏆 Achieved <strong>All India Rank 7</strong> in National DD Robocon 2023.</li>
+  <li>✅ Solved over <strong>500+ problems</strong> on LeetCode.</li>
+  <li>🤝 Contributed to <strong>Hacktoberfest</strong> and <strong>GSSoC 2024</strong>.</li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
