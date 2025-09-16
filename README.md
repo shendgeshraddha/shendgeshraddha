@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C , C++**
 
-- 📫 How to reach me **shendgeshraddha069@gmail.com**
+- 📫 How to reach me **shendgeshraddha22@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
