@@ -32,7 +32,7 @@
   <li>🌟 <strong>5⭐</strong> on HackerRank in DSA.</li>
   <li>🌟 Secured <strong>2⭐</strong> rating on CodeChef.</li>
   <li>🏆 <strong>AIR 7</strong> in National DD Robocon 2023.</li>
-  <li>✅ Solved <strong>800+ problems</strong> on LeetCode.</li>
+  <li>✅ Solved <strong>900+ problems</strong> on LeetCode.</li>
   <li>🤝 Contributed to <strong>Hacktoberfest</strong> and <strong>GSSoC 2024</strong>.</li>
 </ul>
 
