@@ -9,9 +9,9 @@
 
 - 🎓 I'm a pre-final year engineering student specializing in **C++**, **Data Structure and Algorithm**
 
-- 🌱 Currently exploring mernstack development and enhancing my skills in web development.
+- 🌱 Currently exploring Fullstack development and enhancing my skills in web development.
 
-- 💬 Ask me about **C , C++**
+- 💬 Ask me about **C , C++, Python**
 
 - 📫 How to reach me **shendgeshraddha22@gmail.com**
 
