@@ -32,6 +32,20 @@
 </a>
 </p>
 
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shendgeshraddha&show_icons=true&theme=radical" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shendgeshraddha&theme=radical" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shendgeshraddha&layout=compact&theme=radical" alt="top languages" />
+</p>
+
 <h3 align="left">Achievements ✨</h3>
 <ul>
   <li>🌟 <strong>5⭐</strong> on HackerRank in DSA.</li>
