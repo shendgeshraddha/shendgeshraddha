@@ -1,4 +1,4 @@
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/202a3298-ebba-4c65-8f94-4262be55de9f" />
+<!-- <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/202a3298-ebba-4c65-8f94-4262be55de9f" /> -->
 <h1 align="center">Hi 👋, I'm shendge shraddha</h1>
 <h3 align="center">A passionate Competitive Programmer from India</h3>
 
