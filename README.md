@@ -1,4 +1,4 @@
-
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/202a3298-ebba-4c65-8f94-4262be55de9f" />
 <h1 align="center">Hi 👋, I'm shendge shraddha</h1>
 <h3 align="center">A passionate Competitive Programmer from India</h3>
 
@@ -63,7 +63,7 @@
 <a href="https://www.hackerrank.com/shendgeshraddha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shendgeshraddha1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suziee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suziee" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" alt="kaggle" height="30" width="40" />
+<img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg](https://www.google.com/imgres?q=kaggle%20logo&imgurl=https%3A%2F%2Fstorage.googleapis.com%2Fkaggle-organizations%2F4%2Fthumbnail.png&imgrefurl=https%3A%2F%2Fwww.kaggle.com%2F&docid=KPn5jXKsLh6MxM&tbnid=nOAq2ju5T-TDZM&vet=12ahUKEwifzYe03smTAxVo3jgGHS4pMlAQnPAOegQIGRAB..i&w=400&h=400&hcb=2&ved=2ahUKEwifzYe03smTAxVo3jgGHS4pMlAQnPAOegQIGRAB)" alt="kaggle" height="30" width="40" />
 </a>
 </p>
 
