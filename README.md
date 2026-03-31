@@ -42,9 +42,9 @@
   <img src="https://streak-stats.demolab.com?user=shendgeshraddha&theme=radical" alt="streak stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shendgeshraddha&layout=compact&theme=radical" alt="top languages" />
-</p>
+</p> -->
 
 <h3 align="left">Achievements ✨</h3>
 <ul>
