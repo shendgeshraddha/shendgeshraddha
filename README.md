@@ -62,7 +62,7 @@
 <a href="https://www.codechef.com/users/shraddhass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shraddhass" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shendgeshraddha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shendgeshraddha1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suziee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suziee" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/YOUR_USERNAME" target="blank">
+<a href="https://www.kaggle.com/shraddhashendge22" target="blank">
   <img align="center" src="https://github.com/user-attachments/assets/202a3298-ebba-4c65-8f94-4262be55de9f" alt="kaggle" height="40" width="60" />
 </a>
 </p>
