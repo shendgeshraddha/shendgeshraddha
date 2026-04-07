@@ -53,6 +53,7 @@
   <li>🏆 <strong>AIR 7</strong> in National DD Robocon 2023.</li>
   <li>✅ Solved <strong>900+ problems</strong> on LeetCode.</li>
   <li>🤝 Contributed to <strong>Hacktoberfest</strong> and <strong>GSSoC 2024</strong>.</li>
+  <li>🏆 Secured <strong>1st Rank</strong> in the Education Sector at the i2i Competition 2026</li>
 </ul>
 
 
